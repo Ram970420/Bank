@@ -73,23 +73,26 @@ Below is an example of how your program should behave:
 
 --- ATM Machine ---
 
-Check Balance
-Deposit Money
-Withdraw Money
-Change PIN
-Exit Enter your choice: 1 Current Balance: $1000.00
+- Check Balance
+- Deposit Money
+- Withdraw Money
+- Change PIN
+- Exit Enter your choice: 1 Current Balance: $1000.00
+
 --- ATM Machine ---
 
-Check Balance
-Deposit Money
-Withdraw Money
-Change PIN
-Exit Enter your choice: 2 Enter amount to deposit: 200 $200.00 deposited successfully.
+- Check Balance
+- Deposit Money
+- Withdraw Money
+- Change PIN
+- Exit Enter your choice: 2 Enter amount to deposit: 200 
+- $200.00 deposited successfully.
+
 --- ATM Machine ---
 
-Check Balance
-Deposit Money
-Withdraw Money
-Change PIN
-Exit Enter your choice: 5 Thank you for using the ATM. Goodbye!
+- Check Balance
+- Deposit Money
+- Withdraw Money
+- Change PIN
+- Exit Enter your choice: 5 Thank you for using the ATM. Goodbye!
 
